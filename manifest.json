@@ -1,0 +1,20 @@
+{
+	"name": "Witcher Music",
+	"description": "Puts some chill Witcher music as background",
+	"version": "1.0",
+	"developer": {
+		"name": "JustHxnry"
+	},
+	"icons": {
+		"512": "icon_512.png"
+	},
+	"manifest_version": 3,
+	"mod": {
+		"payload": {
+			"background_music": [
+				"music/The Slopes of the Blessure Extended.mp3"
+			]
+		},
+		"schema_version": 1
+	}
+}
